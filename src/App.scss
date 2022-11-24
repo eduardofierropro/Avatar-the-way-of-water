@@ -1,0 +1,10 @@
+.Main{
+    padding: 4.5rem 0 0;
+    
+    @media screen and (max-width:75em){
+        padding: 9rem 0 0;
+    }
+    @media screen and (max-width:49em){
+        padding: 4.5rem 0 0;
+    }
+}
