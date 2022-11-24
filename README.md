@@ -1,4 +1,4 @@
-<!-- ![Imagen del proyecto](https://github.com/eduardofierropro/Madcool-2022/blob/main/assets/home1.png) -->
+![Imagen del proyecto](https://github.com/eduardofierropro/avatar-the-way-of-water/blob/main/public/assets/home1.png)
 
 # Avatar The way of water Copycat
 
