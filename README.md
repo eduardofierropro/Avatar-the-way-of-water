@@ -1,6 +1,6 @@
 ![Imagen del proyecto](https://github.com/eduardofierropro/avatar-the-way-of-water/blob/main/public/assets/home1.png)
 
-# Copycat: Avatar The way of water 
+# Copycat: Avatar The way of water (Proceso)
 
 Este es el copycat de la web de Avatar The way of water en Youtube.
 
