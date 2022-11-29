@@ -60,4 +60,4 @@ Este es el copycat de la web de Avatar The way of water en Youtube.
 ## 📄 Licencia 
 
 MIT Public License v3.0
-No puede usarse comencialmente
+No puede usarse comercialmente
