@@ -28,7 +28,7 @@ Este es el copycat de la web de Avatar The way of water en Youtube.
 
 ## 🔴 Vídeos y repositorios de otras programaciones
 
-| Enlace | Youtube | Github | Github Pages |
+| Nombre | Youtube | Github | Github Pages |
 |--|--|--|--|
 |Playlist de todas las webs                         |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20playlist&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/playlist?list=PLJpymL0goBgETNW1I1rmuTUl-yoaRDUe5)|-|-|
 |Forbes para Jordi Wild, Nate Gentile y Oscar Dorta |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/RbrVM1acWx8)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Forbes-con-Jordi-Wild--Nate-Gentile-y-Oscar-Dorta/)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://forbes-eduardofierropro.netlify.app/)|
