@@ -49,7 +49,7 @@ Este es el copycat de la web de Avatar The way of water en Youtube.
 
 
 ## 👨🏻‍🏫 Eduardo Fierro Pro
- 
+
 ¡Qué pasa cruck! Soy profesor de programación tanto en escuelas como en Bootcamps y en mis tiempos libres programo por Twitch y en Youtube.
 
 [![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
@@ -63,7 +63,8 @@ Este es el copycat de la web de Avatar The way of water en Youtube.
 [![colaboración](https://img.shields.io/static/v1?label=&message=MIS%20CURSOS&color=blue&logo=teach&logoColor=white&style=for-the-badge)](http://colaboracion.eduardofierro.pro)
 
 
-## 📄 Licencia 
+## 📄 Licencia
 
 MIT Public License v3.0
 No puede usarse comercialmente
+
